@@ -6,5 +6,5 @@
 set -oue pipefail
 
 # Your code goes here.
-echo 'This is an example shell script'
-echo 'Scripts here will run during build if specified in recipe.yml'
+echo 'Welcome to Rains Linux, the future #1 OS.'
+echo 'This is a beta release build, If you encounter any problems, please consult to wowiez, Scripts here will run during build if specified in recipe.yml'
